@@ -269,7 +269,7 @@ Publish the website in the given URL.
 
 ![output](./static/img/output 3.jpg)
 
-![output](./static/img/output 4.png)
+![output](./static/img/output 4.jpg)
 
 ## CODE VALIDATION REPORT:
 ![output](./static/img/report 1.jpg)
@@ -281,5 +281,6 @@ Publish the website in the given URL.
 ![output](./static/img/report 4.jpg)
 
 ![output](./static/img/report 5.jpg)
+
 ## RESULT:
 Thus a website is designed for the chip manufacturing company and is hosted in the URL http://priyadarshini.student.saveetha.in:8000. HTML code is validated.
