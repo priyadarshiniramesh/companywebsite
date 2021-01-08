@@ -263,13 +263,13 @@ Publish the website in the given URL.
 
 
 ## OUTPUT:
-![output](./static/img/output1.jpg)
+![output](./static/img/result1.jpg)
 
-![output](./static/img/output2.jpg)
+![output](./static/img/result2.jpg)
 
-![output](./static/img/output3.jpg)
+![output](./static/img/result3.jpg)
 
-![output](./static/img/output4.jpg)
+![output](./static/img/result4.jpg)
 
 ## CODE VALIDATION REPORT:
 ![output](./static/img/report1.jpg)
