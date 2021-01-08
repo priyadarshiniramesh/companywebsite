@@ -263,7 +263,7 @@ Publish the website in the given URL.
 
 
 ## OUTPUT:
-![output](./static/img/output 1.jpg)
+![output](./static/img/output1.jpg)
 
 ![output](./static/img/output 2.jpg)
 
